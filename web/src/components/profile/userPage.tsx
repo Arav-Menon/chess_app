@@ -10,6 +10,7 @@ const stats = [
 ];
 
 export default function Profile() {
+
   return (
     <main className="flex justify-center bg-[#282828] min-h-screen min-h-screen text-white">
       <div className="w-[60rem] flex flex-col gap-10 py-10">
@@ -45,8 +46,6 @@ export default function Profile() {
             ))}
           </div>
         </div>
-
-
 
       </div>
     </main>

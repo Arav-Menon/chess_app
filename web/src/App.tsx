@@ -5,7 +5,6 @@ import About from "./components/About";
 import Profile from "./components/profile/userPage";
 import { Landing } from "./screen/Landing";
 import EditProfile from "./components/profile/editProfile";
-import { prisma } from "../../db/index"
 
 export default function App() {
   return (
